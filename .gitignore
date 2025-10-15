@@ -208,5 +208,10 @@ __marimo__/
 
 # Dados de login
 # Variáveis com dados de logins
+<<<<<<< HEAD
 login_vg.py
 chaveAcessoGoogle_Json/
+=======
+chaveAcessoGoogle_Json/
+testes.ipynb
+>>>>>>> 2c641f8978f874297502435cf5363744d7417717

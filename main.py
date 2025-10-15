@@ -2,9 +2,9 @@ import streamlit as st
 from st_pages import add_page_title
 from pathlib import Path
 
+
 # Estrutura de navegação do sistema
 # O dicionário 'pages' mapeia os nomes das páginas para suas respectivas funções, em outras palavras, organiza e categoriza as diferentes seções do sistema.
-
 pages = {
     "":
         [st.Page(Path('paginas/inicio.py'), title="Início", icon = "🏠", default = True)],
